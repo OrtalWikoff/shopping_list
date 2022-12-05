@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Apples",
+      "day": "Publix",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Bread",
+      "day": "Kroger",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Lemons",
+      "day": "Walmart",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
